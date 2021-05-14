@@ -1,0 +1,37 @@
+<div id="textsection">
+    <div class="simpletext">
+        <h1> {{ section.settings.text-box-title }}</h1>
+        <h3> {{ section.settings.text-box-content }}</h3>
+    </div>
+</div>
+
+{% schema %} 
+    { 
+        "name" : "Cart Message", 
+        "settings" : [
+        {
+            "id" : "text-box-title",
+            "type" : "text",
+            "label" : "Message Title",
+            "default" : "Title"
+        },
+        {
+            "id" : "text-box-content",
+            "type" : "richtext",
+            "label" : "Custom Message",
+            "default" : "<p>Add your text here</p>",
+            "info" :  "Message/notice to provide users while in cart (e.g shipping delays, promos, etc.)"
+        }] 
+    }
+{% endschema %}
+
+{% stylesheet %}
+    .simpletext{
+        display: flex;
+        flex-direction:column;
+        align-items: center;
+        max-width: 50%;
+        margin: 0 auto;
+        text-align: center;
+    }
+{% endstylesheet %}
