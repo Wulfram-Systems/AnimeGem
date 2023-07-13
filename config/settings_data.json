@@ -5,9 +5,9 @@
     "color_button": "#ffffff",
     "color_small_button_text_border": "#fffafa",
     "color_text_field_text": "#ffffff",
-    "color_text_field": "#5b5b5b",
+    "color_text_field": "#1d1d1d",
     "color_image_overlay": "#313131",
-    "color_body_bg": "#393939",
+    "color_body_bg": "#1a1919",
     "sections": {
       "header": {
         "type": "header",
