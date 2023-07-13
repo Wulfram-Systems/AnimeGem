@@ -5,7 +5,7 @@
     "color_button": "#ffffff",
     "color_small_button_text_border": "#fffafa",
     "color_text_field_text": "#ffffff",
-    "color_text_field": "#1d1d1d",
+    "color_text_field": "#ea0000",
     "color_image_overlay": "#313131",
     "color_body_bg": "#1a1919",
     "sections": {
@@ -27,13 +27,13 @@
       "hero-1": {
         "type": "hero",
         "settings": {
-          "image": "shopify:\/\/shop_images\/gundam-5696861_1280.jpg",
-          "alignment": "top",
+          "image": "shopify:\/\/shop_images\/DetailedHugeAldabratortoise-size_restricted.gif",
+          "alignment": "center",
           "hero_layout": "full_width",
           "hero_size": "large",
           "text_size": "large",
-          "title": "Image with text overlay",
-          "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+          "title": "The Best German Gunpla Shop on the Web",
+          "text": "",
           "button_label": "",
           "button_link": ""
         }
