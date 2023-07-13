@@ -18,11 +18,11 @@
           "logo_max_width": 250,
           "main_linklist": "main-menu",
           "message": false,
-          "home_page_only": true,
+          "home_page_only": false,
           "message_text": "Announce something here",
           "message_link": "",
-          "color_bg": "#3a3a3a",
-          "color_text": "#ffffff"
+          "color_bg": "#db711f",
+          "color_text": "#fffafa"
         }
       },
       "hero-1": {
