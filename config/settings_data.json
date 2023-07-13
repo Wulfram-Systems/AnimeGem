@@ -6,7 +6,8 @@
     "color_small_button_text_border": "#fffafa",
     "color_text_field_text": "#ffffff",
     "color_text_field": "#ea0000",
-    "color_image_overlay": "#313131",
+    "color_image_overlay": "#000000",
+    "image_overlay_opacity": 5,
     "color_body_bg": "#1a1919",
     "sections": {
       "header": {
