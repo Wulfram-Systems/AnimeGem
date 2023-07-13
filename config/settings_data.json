@@ -1,6 +1,10 @@
 {
   "current": {
+    "color_body_text": "#ffffff",
+    "color_small_button_text_border": "#fffafa",
+    "color_text_field_text": "#000000",
     "color_text_field": "#5b5b5b",
+    "color_body_bg": "#393939",
     "sections": {
       "header": {
         "type": "header",
